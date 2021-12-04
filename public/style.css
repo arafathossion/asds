@@ -79,7 +79,9 @@ strong {
   .ar {
     display: none;
   }
-
+/* #best_moments{
+  text-align: center;
+} */
   .social_link a {
     padding: 5px 6px;
     margin: 3px;

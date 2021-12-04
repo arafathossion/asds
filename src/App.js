@@ -246,6 +246,8 @@ function App() {
                 </div>
             </section>
 
+
+
             <section id="best_moments">
                 <div className="container pa">
                     <div className="row">
@@ -264,7 +266,7 @@ function App() {
 
                         <div className="col-12 mb-5">
                             <div className="row">
-                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                                     <div className="best_info">
                                         <div className="best_moment_content">
                                             <h6>AUGUST 12 2021</h6>
@@ -277,7 +279,7 @@ function App() {
                                     </div>
                                 </div>
 
-                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-9">
+                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-12">
                                     <div className="best_content">
                                         <p>8888 Pudgy Penguins were available to mint on July 22 for 0.03 ETH and sold out in
                                             less than 20 minutes</p>
@@ -288,7 +290,7 @@ function App() {
 
                         <div className="col-12 mb-5">
                             <div className="row">
-                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                                     <div className="best_info">
                                         <div className="best_moment_content">
                                             <h6>AUGUST 12 2021</h6>
@@ -301,7 +303,7 @@ function App() {
                                     </div>
                                 </div>
 
-                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-9">
+                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-12">
                                     <div className="best_content">
                                         <p>Pudgy Penguins were featured in the <a href="#">New York Times</a>. Throughout the
                                             year of 2021, Pudgy Penguins were showcased on CNBC, Bloomberg, and other popular
@@ -314,9 +316,12 @@ function App() {
                             </div>
                         </div>
 
+
+
+
                         <div className="col-12 mb-5">
                             <div className="row">
-                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                                     <div className="best_info">
                                         <div className="best_moment_content">
                                             <h6>SEPTEMBER 6 2021</h6>
@@ -329,7 +334,7 @@ function App() {
                                     </div>
                                 </div>
 
-                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-9">
+                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-12">
                                     <div className="best_content">
                                         <p>Pudgy Penguins have a dedicated <a href="#">24/7 live radio on Youtube</a> for people
                                             to listen to chill LoFi music and relax to some winter animations.</p>
@@ -340,9 +345,11 @@ function App() {
                             </div>
                         </div>
 
+
+
                         <div className="col-12 mb-5">
                             <div className="row">
-                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                                <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                                     <div className="best_info">
                                         <div className="best_moment_content">
                                             <h6>AUGUST 30 2021</h6>
@@ -355,7 +362,7 @@ function App() {
                                     </div>
                                 </div>
 
-                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-9">
+                                <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-6 col-sm-6 col-12">
                                     <div className="best_content">
                                         <p>Pudgy Presents we’re claimed by Pudgy Penguin holders. Each Pudgy Present was
                                             handcrafted for each Huddle member. What will be inside of your present? Find out on
@@ -364,6 +371,8 @@ function App() {
                                 </div>
                             </div>
                         </div>
+
+                        
 
                     </div>
                 </div>
