@@ -99,14 +99,14 @@ strong {
   display: flex;
   justify-content: center;
   align-items: flex-start !important;
-  padding-left: 40px;
+  padding-left: 60px;
   flex-direction: column;
   margin-bottom: 20px;
 }
 
 .number_bg p {
   padding-left: 20px;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: normal;
   border-left: 4px solid #3bb9ff;
   color: #3bb9ff;
@@ -430,6 +430,50 @@ strong {
 }
 .family_content a i:hover{
     border: 4px solid #fbaf41;
+}
+
+
+.accordion {
+  margin-top: 100px !important;
+  background-color: #07081d;
+}
+.accordion-item{
+  /* border-top: .5px solid lightblue !important; */
+  border-bottom: .5px solid rgba(173, 216, 230, 0.712) !important;
+  background-color: #07081d;
+ 
+}
+.accordion-button:focus {
+  box-shadow: none !important;
+  outline: none !important;
+  border: none !important;
+  background-color: #07081d;
+  color: #3bb9ff;
+  font-size: 20px;
+  text-transform: uppercase;
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  -ms-border-radius: 0 !important;
+  -o-border-radius: 0 !important;
+}
+.accordion-button,.accordion-body {
+  background-color: #07081d;
+}
+.accordion-button{
+  color: #3bb9ff;
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  -ms-border-radius: 0 !important;
+  -o-border-radius: 0 !important;
+  padding: 25px 5px !important;
+}
+.accordion-body{
+  color: white;
+}
+body:focus .accordion-button{
+  background-color: #07081d !important;
 }
 
 footer {
