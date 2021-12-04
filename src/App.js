@@ -14,7 +14,7 @@ function App() {
                     </div>
                 </div>
             </div>
-            <nav className="navbar navbar-expand-md navbar-light ">
+            <nav className="navbar navbar-expand navbar-light ">
                 <div className="container">
 
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -55,7 +55,7 @@ function App() {
             <section id="banner">
                 <div className="container">
                     <div className="row">
-                        <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-8 col-6">
+                        <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-8 col-12">
                             <div className="banner_img">
                                 <img src="./img/top-img.gif" alt="" />
 
